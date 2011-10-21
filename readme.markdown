@@ -7,6 +7,10 @@ Because using foobar2000 in 2011 makes you, statistically speaking, the Rob of y
 
 1.1.8
 
+## Notes
+
+Use Burnnn if you want a CD Writer.
+
 ## Equalizer
 
 ## Themes
