@@ -1,0 +1,3 @@
+1.Copy everything to your fooobar2k folder.
+2.Launch your foobar2k and select columns UI as the default UI.
+3.Click the menu File -> Preferences, go to Display -> Columns UI,and then import the FCL file in the skins folder named "Mnlt 2.fcl".
