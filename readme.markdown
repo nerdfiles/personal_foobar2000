@@ -13,8 +13,8 @@ Because using foobar2000 in 2011 makes you, statistically speaking, the Rob of y
 ## Notes
 
 1. Use [Burrrn](http://www.makeuseof.com/tag/burrrn-free-utility-burning-audio-cds-flac-ogg-mp3/) if you want a CD Writer.
-2. @see http://techsplurge.com/3316/15-foobar2000-skins-themes/
-3. For convience: [C:\Program Files\foobar2000\components](C:\Program Files\foobar2000\components)
+2. Some skin, http://techsplurge.com/3316/15-foobar2000-skins-themes/
+3. http://findicons.com, http://iconfinder.com for buttons.
 
 ## Equalizer
 
